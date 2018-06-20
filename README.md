@@ -1,2 +1,1 @@
 #pinduoduo
-content1
